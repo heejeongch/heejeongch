@@ -4,4 +4,4 @@
 
 ### CI/CD <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=springboot&logoColor=D24939"/></a> <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=232F3E"/></a> <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-232F3E?style=plastic&logo=Amazon EC2&logoColor=232F3E"/></a> <br>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats) ![](http://sign.junnyland.com:8877/api/info?userId=jennachoi27)
