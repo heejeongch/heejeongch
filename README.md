@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?text=welcomeToBbring&animation=fadeIn&type=rounded&color=auto&height=200&section=header)
+
 
 
 <center>
@@ -19,4 +20,4 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats) <br>
 ![baeckjoon](http://sign.junnyland.com:8877/api/info?userId=jennachoi27)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=footer)
