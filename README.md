@@ -18,3 +18,5 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats) <br>
 ![baeckjoon](http://sign.junnyland.com:8877/api/info?userId=jennachoi27)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
