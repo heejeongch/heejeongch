@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=welcomeToBbring&animation=fadeIn&type=waving&color=auto&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?text=welcome to bbring&animation=fadeIn&type=waving&color=auto&height=200&section=header)
 ---
 <center>
 
