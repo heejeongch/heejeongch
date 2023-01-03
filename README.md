@@ -12,7 +12,9 @@
 
 ### ⌨️ What kinda languages mostly I used <br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbring2)](https://github.com/bbring2)
+
 ---
+
 ### ❔ How is going Algorithm Studying ?
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats)
