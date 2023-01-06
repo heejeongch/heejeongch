@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Bbringworld&animation=fadeIn&type=waving&color=auto&height=200&section=header)
 ---
-### Framework <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring boot-6DB33F?style=plastic&logo=springboot&logoColor=6DB33F"/></a> <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> <br>
+### Framework <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> <br>
 
 ### Language <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Java-DC0D15?style=plastic&logo=java&logoColor=DC0D15"/></a> <br>
 
