@@ -11,14 +11,14 @@
 
 
 ### ⌨️ What kinda languages mostly I used <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bbring2)](https://github.com/bbring2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbring2)](https://github.com/bbring2/github-readme-stats)
 
 ---
 
 ### ❔ How's going Algorithm Studying
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats)
-![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=jennachoi27)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jennachoi27)](https://solved.ac/jennachoi27)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
