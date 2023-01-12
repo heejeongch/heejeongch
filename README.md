@@ -18,7 +18,7 @@
 ### ❔ How's going Algorithm Studying
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats)
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jennachoi27)](https://solved.ac/jennachoi27)
+![baeckjoon](http://sign.junnyland.com:8877/api/info/boj?userId=jennachoi27)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
