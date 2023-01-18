@@ -12,7 +12,7 @@
 
 
 ### ⌨️ What kinda languages mostly I used <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbring2)](https://github.com/bbring2/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bbring2&show_icons=true&theme=tokyonight)
 
 ---
 
