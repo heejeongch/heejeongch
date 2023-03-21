@@ -6,9 +6,13 @@
 
  
 <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
- <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=springboot&logoColor=D24939"/></a> 
- <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=232F3E"/></a> 
- <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-232F3E?style=plastic&logo=Amazon EC2&logoColor=232F3E"/></a> 
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=springboot&logoColor=D24939"/></a> 
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=232F3E"/></a> 
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/MySQL -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-232F3E?style=plastic&logo=Amazon EC2&logoColor=232F3E"/></a> 
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/MongoDB -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/FastAPI -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
 ---
 
 ### 🖐 How many ppl visited bbringworld 
