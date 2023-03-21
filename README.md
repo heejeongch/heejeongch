@@ -1,5 +1,9 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?text=Bbringworld&animation=fadeIn&type=waving&color=auto&height=200&section=header)
 ---
+
+ 
 ### Framework <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> <br>
 
 ### Language <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Java-DC0D15?style=plastic&logo=java&logoColor=DC0D15"/></a> <br>
@@ -24,6 +28,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbring2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+    </div>
