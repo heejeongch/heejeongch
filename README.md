@@ -21,4 +21,9 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats)
 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
