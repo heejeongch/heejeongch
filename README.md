@@ -21,7 +21,6 @@
 
 ### ⌨️ My github history <br> 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bbring2&show_icons=true&theme=radical&hide_border=true&border_radius=8)
-
 ---
 
 
