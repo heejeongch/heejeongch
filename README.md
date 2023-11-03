@@ -1,5 +1,6 @@
 <div align="center">
 
+
 ![header](https://capsule-render.vercel.app/api?text=Bbringworld&animation=fadeIn&type=waving&color=auto&height=200&section=header)
 ---
  
@@ -7,14 +8,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbring2&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=springboot&logoColor=D24939"/></a> 
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=232F3E"/></a> 
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/MySQL -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-232F3E?style=plastic&logo=Amazon EC2&logoColor=232F3E"/></a> 
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/MongoDB -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/FastAPI -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring -6DB33F?style=plastic&logo=spring&logoColor=6DB33F"/></a> 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=spring,fastapi,androidstudio)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,aws,gradle,maven,gitlab,github)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev)
+
+
 ---
 
 ### 🖐 How many ppl visited bbringworld 
