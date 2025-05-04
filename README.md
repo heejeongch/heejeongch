@@ -1,35 +1,40 @@
-<div align="center">
+# Hi there, I'm Heejeong! 👋
 
+🚀 I'm a backend engineer and founder of [koko](https://github.com/koko-project) — a digital companion that helps anyone feel at home, anywhere in the world.  
+I build services that simplify life for short-term residents abroad, using practical tech and a culturally adaptive mindset.
 
-![header](https://capsule-render.vercel.app/api?text=ChoiWorld&animation=fadeIn&type=waving&color=auto&height=200&section=header)
+## 💡 About Me
+
+- 🧠 Backend specialist in **Python (FastAPI)**, and **Java/Kotlin (Spring Boot)**
+- 🧳 Experienced in building fintech and Web3 systems
+- 🌏 Passionate about global mobility, localization, and expat life
+- 💬 Love solving real-world problems through clean, scalable code
+
+## 🔧 Tech Stack
+
+**Languages**:  
+`Python` `Kotlin` `Java` `C#` `TypeScript`
+
+**Frameworks**:  
+`FastAPI` `Spring Boot` `.NET` `React`
+
+**Tools & Infra**:  
+`Docker` `AWS` `Kubernetes` `Redis` `Kafka` `MySQL` `MongoDB`
+
+**AI & Ops**:  
+`OpenAI` `LangChain` `GPT API` `Opensearch`
+
+## 🧭 My Values
+
+- 🤝 Companion-like experiences over cold tools  
+- 📦 Minimum burden, maximum clarity  
+- 💡 Build for self-sufficiency, not dependence  
+
+## 📬 Let's Connect
+
+- 💼 LinkedIn: [linkedin.com/in/heejeong-choi](https://www.linkedin.com/in/heejeong-choi-2b4217219/)
+- 💌 Email: jennachoi27@gmail.com
+
 ---
- 
-### What i am interested in
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongchoixx&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
- 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=spring,fastapi,androidstudio)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,aws,gradle,maven,gitlab,github)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev)
-
-
----
-
-### 🖐 How many ppl visited bbringworld 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongchoixx&count_bg=%23FF7F50&title_bg=%23D2B48C&icon=apachecassandra.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-### ⌨️ My github history <br> 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jeongchoixx&show_icons=true&theme=radical&hide_border=true&border_radius=8)
----
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
- 
-</div>
+Thanks for visiting — let’s build something meaningful together!
