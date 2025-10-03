@@ -30,11 +30,6 @@ I build services that simplify life for short-term residents abroad, using pract
 - 📦 Minimum burden, maximum clarity  
 - 💡 Build for self-sufficiency, not dependence  
 
-## 📬 Let's Connect
-
-- 💼 LinkedIn: [linkedin.com/in/heejeong-choi](https://www.linkedin.com/in/heejeong-choi-2b4217219/)
-- 💌 Email: jennachoi27@gmail.com
-
 ---
 
 Thanks for visiting — let’s build something meaningful together!
