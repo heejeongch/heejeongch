@@ -1,7 +1,7 @@
 
 # 👩‍💻 Heejeong Choi  
 
-> Backend Engineer | Quant Developer | Startup Founder  
+> Backend Engineer | Quant Developer
 
 Hi there! 👋  
 I’m a **backend engineer, quant/crypto trading enthusiast, and founder** building products that help people live more freely across the globe.  
