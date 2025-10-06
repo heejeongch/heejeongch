@@ -12,9 +12,7 @@ My motto: *"Enabling anyone to live like a local, anywhere."* 🚀
 ## 🌟 About Me
 - 🔭 **Backend Development**: Kotlin/Java & Spring Boot, Python & FastAPI, C# & .NET  
 - 📊 **Quant & Crypto**: Algorithmic trading, Kimchi Premium analysis, automated bots (D10-QB), orderbook-based decision support systems  
-- 🌍 **Entrepreneurship**: Building **koko** — a lifestyle platform for short-term foreigners to settle in like locals  
-- ✨ **Core Values**: 🤝 Companion-like | 📦 Minimal Burden | 🌐 Culturally Adaptive | 🧭 Clarity First | 💡 Self-Sufficiency | 🔒 Privacy-Respectful  
-- 🎨 **Also Into**: Design systems, global product branding, K-Beauty & K-Lifestyle content creation  
+- ✨ **Core Values**: 🤝 Companion-like | 📦 Minimal Burden | 🌐 Culturally Adaptive | 🧭 Clarity First | 💡 Self-Sufficiency | 🔒 Privacy-Respectful
 
 ---
 
