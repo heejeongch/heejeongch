@@ -4,7 +4,7 @@
 > Backend Engineer | Quant Developer
 
 Hi there! 👋  
-I’m a **backend engineer, quant/crypto trading enthusiast, and founder** building products that help people live more freely across the globe.  
+I’m a **backend engineer, and quant/crypto trading enthusiast** building products that help people live more freely across the globe.  
 My motto: *"Enabling anyone to live like a local, anywhere."* 🚀  
 
 ---
